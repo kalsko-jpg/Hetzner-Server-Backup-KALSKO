@@ -1,4 +1,4 @@
-# Hetzner-Server-Backup-KALSKO
+# Hetzner-Server-Backup - Kalle & Temuulen
 This repo contains the files for the hetzner backup project, these files will show and explain the process in full.
 
 * Hetzner guide.sh is a simplified process for what we've done.
